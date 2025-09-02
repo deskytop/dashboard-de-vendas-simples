@@ -4,12 +4,12 @@ Criado para treinar a ferramenta de BI, com a limpeza e transformação dos dado
 Relatório de vendas simples, planilha limpa e relacionamentos sincronizados.
 
 ## 📊 Gráficos
-- Faturamento, Lucro e Mês por Marca
-- Faturamento por Marca
-- Faturamento Total
-- Lucro Total
-- Percentual por Marca
-- Representatividade de Vendas
+- Faturamento, Lucro e Mês por Marca;
+- Faturamento por Marca;
+- Faturamento Total;
+- Lucro Total;
+- Percentual por Marca;
+- Representatividade de Vendas.
 
 Além de poder filtrar por períodos, feito de forma limpa e objetiva, testando os funcionamentos da ferramenta.
 
