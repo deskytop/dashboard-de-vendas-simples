@@ -1,5 +1,5 @@
 # 💵 Dashboard de Vendas Simples
-Criado para treinar a ferramenta de BI, com a limpeza e transformação dos dados com o power query, criação de relacianamentos e modelagem de dados, e cálculos para análise dos mesmos com o DAX. 
+Criado para treinar a ferramenta de BI, com a limpeza e transformação dos dados com o power query, criação de relacionamentos e modelagem de dados, e cálculos para análise dos mesmos com o DAX. 
 
 Relatório de vendas simples, planilha limpa e relacionamentos sincronizados.
 
