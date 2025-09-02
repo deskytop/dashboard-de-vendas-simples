@@ -18,5 +18,5 @@ Além de poder filtrar por períodos, feito de forma limpa e objetiva, testando 
 [__➡️ Clique aqui para visualizar na prática ⬅️__](https://app.powerbi.com/view?r=eyJrIjoiZTg5MTBkNmEtOTA5Mi00NjY5LTkzMjQtZjFjYjI4MjljNjdmIiwidCI6IjAwZDE0NDU5LTRiOTMtNDI5Ny04ZjViLTVhYmUyMDQwNGUxOSJ9)
 
 ***
-
+Exemplo:
 ![Imagem de Exemplo do Dashboard](./assets/images/exemplo.png)
